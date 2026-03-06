@@ -28,3 +28,7 @@ install libraries/Dependencies
 pip install -r requirements.txt
 
 ```
+Live Application
+```
+https://bglrhousepriceprediction-5ajjgm5kanbpbfzygaa4zo.streamlit.app/
+```
