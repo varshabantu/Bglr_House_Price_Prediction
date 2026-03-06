@@ -2,6 +2,6 @@ numpy
 pandas
 matplotlib
 scikit-learn
-streamlit
+streamlit>=1.32
 seaborn
 altair==4.2.2
